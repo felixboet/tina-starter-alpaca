@@ -1,7 +1,7 @@
 ---
 title: Ubuntu
 groupIn: Linux
-last_edited: '2021-01-13T14:27:17.441Z'
+last_edited: '2021-06-27T22:04:48.766Z'
 ---
 ![](/images/Logo-ubuntu_no(r)-black_orange-hex.svg.png)
 
@@ -13,6 +13,6 @@ Ubuntu is released every six months, with [long-term support](https://en.wikipe
 
 Ubuntu is [developed](https://en.wikipedia.org/wiki/Software_development "Software development") by [Canonical](https://en.wikipedia.org/wiki/Canonical_(company) "Canonical (company)"), and a community of other developers, under a meritocratic governance model. Canonical provides security updates and support for each Ubuntu release, starting from the release date and until the release reaches its designated [end-of-life](https://en.wikipedia.org/wiki/End-of-life_(product) "End-of-life (product)") (EOL) date. Canonical generates revenue through the sale of premium services related to Ubuntu.
 
-Ubuntu is named after the [Nguni](https://en.wikipedia.org/wiki/Nguni_people "Nguni people") philosophy of _[ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy "Ubuntu philosophy")_, which Canonical indicates means "humanity to others" with a connotation of "I am what I am because of who we all are".
+Ubuntu is named after the [Nguni](https://en.wikipedia.org/wiki/Nguni_people "Nguni people")  of _[ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy "Ubuntu philosophy")_, which Canonical indicates means "humanity to others" with a connotation of "I am what I am because of who we all are".
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Ubuntu)
