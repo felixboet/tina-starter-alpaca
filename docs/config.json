@@ -103,6 +103,28 @@
           ]
         }
       ]
+    },
+    {
+      "type": "link",
+      "slug": "deployment/basics",
+      "title": "More",
+      "children": [
+        {
+          "type": "link",
+          "slug": "features/ubuntu",
+          "title": "11111",
+          "children": [],
+          "id": "9cky7l92a"
+        },
+        {
+          "type": "link",
+          "slug": "getting-started",
+          "title": "new doc page",
+          "children": [],
+          "id": "pykknjifn"
+        }
+      ],
+      "id": "4bu8rysp8"
     }
   ]
 }
